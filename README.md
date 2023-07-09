@@ -25,7 +25,8 @@ INTERACTION’S PROVIDED BY THE PROGRAM:
 •	Transfer from PC-A to a PC in WAN
 •	Quit
 
-![Uploading Screenshot (112).png…]()
+![Screenshot (112)](https://github.com/Amala-06/Point-to-Point-communication-OpnGL/assets/129526942/db93626b-a70c-428a-8476-ae19ec57bfe1)
+
 ![Screenshot (116)](https://github.com/Amala-06/Point-to-Point-communication-OpnGL/assets/129526942/3134a910-5acd-4ab6-9ee2-5d08ad88b62f)
 ![Screenshot (115)](https://github.com/Amala-06/Point-to-Point-communication-OpnGL/assets/129526942/860ec0ff-bd80-4579-9e26-8b85c17fcba5)
 ![Screenshot (114)](https://github.com/Amala-06/Point-to-Point-communication-OpnGL/assets/129526942/aa82574f-ab11-4e7f-b109-373e55902df1)
